@@ -16,6 +16,8 @@ Assim, no terminal é mostrado o que o programa retorna
 
 Imagens para facil entendimento está no PDF
 
-Nome: Patrick Alves Gonçalves – 42214440 - 10409363
-Nome: Nicholas dos Santos Leal – 42210771 – 1040
-Nome: Gustavo Ibara - 42210720 – 10389067
+Nome: Patrick Alves Gonçalves – 42214440
+
+Nome: Nicholas dos Santos Leal – 42210771
+
+Nome: Gustavo Ibara - 42210720
